@@ -101,3 +101,24 @@ a {
   color:purple;
 
 }
+
+.footer{
+
+  display: flex;
+
+  background-color: black;
+
+}
+
+.footwear1{
+
+  display: flex;
+
+  color: white;
+
+}
+
+.footer h6{
+  font-size: 13px;
+
+}
